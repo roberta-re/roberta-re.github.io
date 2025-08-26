@@ -1,0 +1,64 @@
+/*
+Don't want to use sass and simply modify the stylesheet in the old css fashion?
+Just customize your theme here.
+================================================== */
+
+body.layout-base {
+  padding: 0 !important;
+}
+
+.highlight > pre {
+  padding: 0.5rem 1rem;
+}
+
+splash-screen {
+  background-color: #fffff8;
+  position: relative;
+  font-size: 1.2rem;
+
+  height: 100vh;
+  margin: 0;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  padding: 0px 5%;
+  text-align: center;
+}
+
+splash-screen:before {
+  z-index: 1;
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-image: url('../images/splash.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  opacity: .3;
+}
+
+splash-screen > * {
+  z-index: 2;
+}
+
+splash-screen logo {
+  margin-bottom: 20px;
+  max-width: 546px;
+}
+
+splash-screen logo img {
+  width: 100%;
+}
+
+@media screen and (min-width: 413px) {
+  splash-screen {
+    font-size: 1.7rem;
+    padding: 0px 10%;
+  }
+}

@@ -1,0 +1,34 @@
+---
+layout: default
+---
+<!-- Post Featured Image -->
+{% if page.image %}
+<div class="text-center mx-auto mb-5">
+  <img class="featured-image text-center mx-auto rounded" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">
+</div>
+{% endif %}
+<!-- End Featured Image -->
+
+<div class="mainheading">
+  <h1 class="posttitle">{{ page.title }}</h1>
+</div>
+
+<div class="article-post serif-font">
+  {{content}}
+</div>
+
+{% assign post_count = 0 %}
+{% for category in site.categories %}
+  {% if category[0] == page.title %}
+    {% for post in category.last %}
+      {% assign post_count = post_count | plus: 1 %}
+      <div class="col-lg-4">
+        {% include postbox.html %}
+      </div>
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+
+{% if post_count == 0 %}
+  <p class="text-center">Non ci sono ancora articoli</p>
+{% endif %}

@@ -1,0 +1,38 @@
+title: "Roberta Re"
+description: "Architettura, Progettazione e Design"
+timezone: UTC
+baseurl: ""
+permalink: "/:categories/:title/"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+author: Roberta Re
+paginate: 30
+locale: it_IT
+lang: it_IT
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+future: false
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: :compressed
+authors:
+  roberta:
+    name: Roberta Re
+    display_name: Roberta Re
+    avatar: 'assets/images/roberta.jpg'
+    description: ""
+exclude:
+  - "LICENSE.txt"
+  - "CNAME"
+  - "vendor"
+plugins:
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives

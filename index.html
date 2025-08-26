@@ -1,15 +1,28 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ing. Roberta Re</title>
-    <link rel="stylesheet" href="css/styles.css">
-</head>
-<body>
-    <splash-screen>
-        <logo><img src="images/rr.png" alt="Roberta Re"></logo>
-        <div>...delineo idee con la matita dando forma a spazio materia e colore</div>
-    </splash-screen>
-</body>
-</html>
+---
+layout: base
+image: assets/images/logo.png
+---
+
+<splash-screen>
+    <logo><img src="/assets/images/logo.png" alt="Roberta Re"></logo>
+    <div>...delineo idee con la matita dando forma a spazio, materia e colore</div>
+</splash-screen>
+
+<section class="row">
+  <h1 class="mb-4">My Posts</h1>
+  <div class="row">
+    {% for post in paginator.posts %}
+    {% if post.section == architecture %}
+    <div class="col-md-6 mb-5">
+      {% include postbox.html %}
+    </div>
+    {% endif %}
+    {% endfor %}
+  </div>
+  <!-- Pagination -->
+  <div class="bottompagination">
+    <span class="navigation" role="navigation">
+        {% include pagination.html %}
+    </span>
+  </div>
+</section>

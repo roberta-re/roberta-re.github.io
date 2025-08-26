@@ -1,0 +1,23 @@
+# Top Menu
+topmenu:
+
+- title: Io
+  url: "io/"
+
+# - title: Architettura
+#   url: "architettura/"
+
+# - title: Contatti
+#   url: "contatti/"
+
+# Footer Menu
+footermenu:
+
+- title: Io
+  url: "io/"
+
+# - title: Architettura
+#   url: "architettura/"
+
+# - title: Contatti
+#   url: "contatti/"
