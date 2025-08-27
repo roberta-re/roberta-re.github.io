@@ -62,3 +62,11 @@ splash-screen logo img {
     padding: 0px 10%;
   }
 }
+
+splash-screen ul.navbar-nav {
+  margin: 0 0 50px 0 !important;
+  flex-direction: row;
+  font-weight: normal !important;
+  text-transform: uppercase;
+  font-size: 1.1rem;
+}

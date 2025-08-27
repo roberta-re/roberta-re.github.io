@@ -1,0 +1,9 @@
+<ul class="navbar-nav ml-auto font-weight-bold d-flex align-items-center">
+  {% for item in site.data.menus.topmenu %}
+  <li class="nav-item px-2">
+    {% capture link %}{{ item.url | split: "/" | join: "/" }}{% endcapture %}
+    {% assign breadcrumbs = page.url | relative_url | split: "/" %}
+    <a class="nav-link py-0 px-1 {% if breadcrumbs contains link %}active{% endif %} {% if item.class %}{{item.class}}{% endif %}" href="{% unless item.external %}{{site.baseurl}}/{% endunless %}{{item.url}}" alt="{{item.title}}">{{item.title}}</a>
+  </li>
+  {% endfor %}
+</ul>
