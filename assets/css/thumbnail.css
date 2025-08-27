@@ -1,0 +1,42 @@
+.thumbnail {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  aspect-ratio: 4/3;
+  overflow: hidden;
+  vertical-align: middle;
+}
+.thumbnail img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  cursor: zoom-in;
+}
+
+img.thumb-zoomed {
+  position: fixed;
+  z-index: 10001;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 80vw;
+  max-height: 80vh;
+  width: auto;
+  height: auto;
+  margin: 0;
+  padding: 0;
+  cursor: zoom-out;
+  border: 1px solid #ddd;
+  box-shadow: 0 0 90px rgba(0,0,0,0.2);
+}
+body.thumb-zoomed::before {
+  content: '';
+  position: fixed;
+  left: 0; top: 0; width: 100vw; height: 100vh;
+  background: rgba(255,255,255,0.95);
+  z-index: 10000;
+  pointer-events: auto;
+}
+body.thumb-zoomed {
+  overflow: hidden !important;
+}

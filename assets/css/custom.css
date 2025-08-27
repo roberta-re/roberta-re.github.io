@@ -71,19 +71,26 @@ splash-screen ul.navbar-nav {
   font-size: 1.1rem;
 }
 
-
-.postbox-image-effect {
+.postbox-link .postbox-image-effect {
   overflow: hidden;
   position: relative;
+  width: 100%;
+  aspect-ratio: 16/9;
+  background: #eee;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
-.postbox-image-effect img {
+.postbox-link .postbox-image-effect img {
   filter: grayscale(100%);
   transition: filter 0.4s, transform 0.4s;
   transform: scale(1);
   display: block;
   width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
-.postbox-image-effect:hover img {
+.postbox-link:hover .postbox-image-effect img {
   filter: grayscale(0%);
   transform: scale(1.07);
   z-index: 2;

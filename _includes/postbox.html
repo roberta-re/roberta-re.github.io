@@ -1,15 +1,14 @@
 <!-- begin post -->
 {% assign author = site.authors[post.author] %}
 <div class="card">
-    <a href="{{ post.url | absolute_url }}" target="_self">
+    <a class="postbox-link" href="{{ post.url | absolute_url }}" target="_self">
       {% if post.image %}
-        <div class="postbox-image-effect">
-            <img class="rounded mb-4" src="{{ site.baseurl }}/{{ post.image }}" alt="{{ post.title }}">
+        <div class="postbox-image-effect mb-4">
+            <img class="rounded" src="{{ site.baseurl }}/{{ post.image }}" alt="{{ post.title }}">
         </div>
       {% endif %}
-    </a>
-    <div class="card-block">
-        <h2 class="card-title h4 serif-font"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+      <div class="card-block">
+        <h2 class="card-title h4 serif-font">{{ post.title }}</h2>
         <div class="metafooter">
             <div class="wrapfooter small d-flex align-items-center">
                 <span class="author-meta">
@@ -18,6 +17,8 @@
                 <div class="clearfix"></div>
             </div>
         </div>
-    </div>
+      </div>
+    </a>
+
 </div>
 <!-- end post -->
