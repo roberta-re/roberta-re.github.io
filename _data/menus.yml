@@ -4,8 +4,8 @@ topmenu:
 - title: Io
   url: "io/"
 
-# - title: Architettura
-#   url: "architettura/"
+- title: Architettura
+  url: "architettura/"
 
 # - title: Rigenerazione
 #   url: "rigenerazione/"
@@ -16,8 +16,8 @@ footermenu:
 - title: Io
   url: "io/"
 
-# - title: Architettura
-#   url: "architettura/"
+- title: Architettura
+  url: "architettura/"
 
 # - title: Rigenerazione
 #   url: "rigenerazione/"
