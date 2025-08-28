@@ -12,11 +12,26 @@ document.addEventListener("DOMContentLoaded", function () {
         closeZoom(thumb);
       }
     });
+    thumb.querySelector('.arrow-left')?.addEventListener('click', function(e) {
+      e.stopPropagation();
+      const prev = prevThumbnail(thumb);
+      if (prev) {
+        closeZoom(thumb);
+        openZoom(prev);
+      }
+    });
+    thumb.querySelector('.arrow-right')?.addEventListener('click', function(e) {
+      e.stopPropagation();
+      const next = nextThumbnail(thumb);
+      if (next) {
+        closeZoom(thumb);
+        openZoom(next);
+      }
+    });
   });
 
   document.body.addEventListener("click", function (e) {
     if (zoomedThumb && !e.target.closest('.thumbnail')) {
-      console.log('clicked outside zoomed image');
       closeZoom(zoomedThumb);
     }
   });
