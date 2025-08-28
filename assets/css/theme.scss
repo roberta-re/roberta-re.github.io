@@ -262,9 +262,27 @@ small, .small {
     padding: 20px 0;
     font-size: 17px;
     display: block;
-        color: #111;
+    color: #111;
     font-weight: 500;
 }
+
+.thepostlink-featured {
+    display:inline-block;
+    width:48px;
+    height:48px;
+    overflow:hidden;
+    border-radius:8px;
+    margin-right:10px;
+    flex-shrink:0;
+
+    img {
+      width:100%;
+      height:100%;
+      object-fit:cover;
+      display:block;
+    }
+}
+
 .prevnextlinks {
     border-top: 1px solid #eee;
     border-bottom: 1px solid #eee;
