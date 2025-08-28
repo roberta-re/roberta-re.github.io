@@ -2,7 +2,6 @@
 layout: post
 title: Corda e pannelli
 author: roberta
-tags: [ 'interior design' ]
 category: Architettura
 published: true
 image: assets/images/Architettura/corda-e-pannelli/IMG_9876666-1024x650-1.jpg

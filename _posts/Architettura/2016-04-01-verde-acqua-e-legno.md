@@ -2,7 +2,6 @@
 layout: post
 title: Verde acqua e legno
 author: roberta
-tags: [ 'interior design' ]
 category: Architettura
 published: true
 image: assets/images/Architettura/verde-acqua-e-legno/Nuovo-documento-2017-03-07-10.56.36_1.jpg
