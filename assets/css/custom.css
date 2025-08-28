@@ -14,7 +14,7 @@ body.layout-base {
 splash-screen {
   background-color: #fffff8;
   position: relative;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 
   height: 100vh;
   margin: 0;
@@ -58,7 +58,7 @@ splash-screen logo img {
 
 @media screen and (min-width: 413px) {
   splash-screen {
-    font-size: 1.7rem;
+    font-size: 1.4rem;
     padding: 0px 10%;
   }
 }
