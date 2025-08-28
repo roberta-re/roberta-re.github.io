@@ -1,3 +1,7 @@
 <span class="thumbnail">
-  <img src="{{ include.path | relative_url }}" />
+  <span class="img-wrapper">
+    <img src="{{ include.path | relative_url }}" />
+    <button class="arrow arrow-left" aria-label="Previous image"><b>&lt;</b></button>
+    <button class="arrow arrow-right" aria-label="Next image"><b>&gt;</b></button>
+  </span>
 </span>

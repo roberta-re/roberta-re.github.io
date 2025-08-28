@@ -6,10 +6,8 @@ document.addEventListener("DOMContentLoaded", function () {
   thumbnails.forEach(function (thumb) {
     thumb.addEventListener("click", function (e) {
       e.stopPropagation();
-      if (!thumb.classList.contains("thumb-zoomed")) {
+      if (!thumb.classList.contains("zoomed")) {
         openZoom(thumb);
-      } else {
-        closeZoom(thumb);
       }
     });
     thumb.querySelector('.arrow-left')?.addEventListener('click', function(e) {
@@ -72,15 +70,15 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   function openZoom(thumb) {
-    thumb.classList.add("thumb-zoomed");
-    document.body.classList.add("thumb-zoomed");
+    thumb.classList.add("zoomed");
+    document.body.classList.add("zoomed");
     zoomedThumb = thumb;
   }
 
   function closeZoom(thumb) {
     if (thumb) {
-      thumb.classList.remove("thumb-zoomed");
-      document.body.classList.remove("thumb-zoomed");
+      thumb.classList.remove("zoomed");
+      document.body.classList.remove("zoomed");
       zoomedThumb = thumb;
     }
   }
