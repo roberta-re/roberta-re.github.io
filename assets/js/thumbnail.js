@@ -1,65 +1,72 @@
 document.addEventListener("DOMContentLoaded", function () {
-  const thumbnails = document.querySelectorAll(".thumbnail img");
+  const thumbnails = document.querySelectorAll(".thumbnail");
   const thumbnailsList = Array.from(thumbnails);
-  let zoomedImg = null;
+  let zoomedThumb = null;
 
-  thumbnails.forEach(function (img) {
-    img.addEventListener("click", function (e) {
+  thumbnails.forEach(function (thumb) {
+    thumb.addEventListener("click", function (e) {
       e.stopPropagation();
-      if (!img.classList.contains("thumb-zoomed")) {
-        openZoom(img);
+      if (!thumb.classList.contains("thumb-zoomed")) {
+        openZoom(thumb);
       } else {
-        closeZoom(img);
+        closeZoom(thumb);
       }
     });
   });
 
+  document.body.addEventListener("click", function (e) {
+    if (zoomedThumb && !e.target.closest('.thumbnail')) {
+      console.log('clicked outside zoomed image');
+      closeZoom(zoomedThumb);
+    }
+  });
+
   document.addEventListener("keydown", function (e) {
-    if (!zoomedImg) return;
+    if (!zoomedThumb) return;
     if (e.key === "Escape") {
-      closeZoom(zoomedImg);
+      closeZoom(zoomedThumb);
     } else if (e.key === "ArrowRight") {
-      const next = nextThumbnail(zoomedImg);
+      const next = nextThumbnail(zoomedThumb);
       if (next) {
-        closeZoom(zoomedImg);
+        closeZoom(zoomedThumb);
         openZoom(next);
       }
     } else if (e.key === "ArrowLeft") {
-      const prev = prevThumbnail(zoomedImg);
+      const prev = prevThumbnail(zoomedThumb);
       if (prev) {
-        closeZoom(zoomedImg);
+        closeZoom(zoomedThumb);
         openZoom(prev);
       }
     }
   });
 
-  function nextThumbnail(currentImg) {
-    const idx = thumbnailsList.indexOf(currentImg);
+  function nextThumbnail(currentThumb) {
+    const idx = thumbnailsList.indexOf(currentThumb);
     if (idx !== -1 && idx < thumbnailsList.length - 1) {
       return thumbnailsList[idx + 1];
     }
     return null;
   }
 
-  function prevThumbnail(currentImg) {
-    const idx = thumbnailsList.indexOf(currentImg);
+  function prevThumbnail(currentThumb) {
+    const idx = thumbnailsList.indexOf(currentThumb);
     if (idx !== -1 && idx > 0) {
       return thumbnailsList[idx - 1];
     }
     return null;
   }
 
-  function openZoom(img) {
-    img.classList.add("thumb-zoomed");
+  function openZoom(thumb) {
+    thumb.classList.add("thumb-zoomed");
     document.body.classList.add("thumb-zoomed");
-    zoomedImg = img;
+    zoomedThumb = thumb;
   }
 
-  function closeZoom(img) {
-    if (img) {
-      img.classList.remove("thumb-zoomed");
+  function closeZoom(thumb) {
+    if (thumb) {
+      thumb.classList.remove("thumb-zoomed");
       document.body.classList.remove("thumb-zoomed");
-      zoomedImg = null;
+      zoomedThumb = thumb;
     }
   }
 });

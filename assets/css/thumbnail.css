@@ -21,7 +21,7 @@
   -ms-user-select: none;
 }
 
-img.thumb-zoomed {
+.thumbnail.thumb-zoomed img {
   position: fixed;
   z-index: 10001;
   left: 50%;
@@ -43,6 +43,7 @@ body.thumb-zoomed::before {
   left: 0; top: 0; width: 100vw; height: 100vh;
   background: rgba(255,255,255,0.95);
   z-index: 10000;
+  cursor: zoom-out;
   pointer-events: auto;
 }
 body.thumb-zoomed {
