@@ -1,16 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&display=swap');
 
-@mixin arrow-gradient($direction) {
-  background: linear-gradient(
-    to #{$direction},
-    rgba(255,255,255,0.0) 0%,
-    rgba(255,255,255,0.0) 50%,
-    rgba(255,255,255,0.85) 90%,
-    rgba(255,255,255,0.95) 100%
-  );
-}
-
 .thumbnail {
   display: inline-block;
   position: relative;
@@ -68,11 +58,11 @@
           padding: 6%;
         }
         @media screen and (min-width: 601px) {
-          font-size: 4rem;
+          font-size: 3.5rem;
           padding: 8%;
         }
         @media screen and (min-width: 1025px) {
-          font-size: 5rem;
+          font-size: 3.5rem;
           padding: 8%;
         }
       }
@@ -81,17 +71,11 @@
       left: 0%;
       justify-content: flex-start;
       cursor: w-resize;
-      &:hover {
-        @include arrow-gradient(left);
-      }
     }
     .arrow-right {
       right: 0%;
       justify-content: flex-end;
       cursor: e-resize;
-      &:hover {
-        @include arrow-gradient(right);
-      }
     }
   }
 
