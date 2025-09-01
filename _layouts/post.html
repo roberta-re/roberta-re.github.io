@@ -25,7 +25,7 @@ post_class: post-template
     <div class="article-post ">
       {{content}}
       <div class="clearfix"></div>
-      {% if page.gallery %}
+      {% if page.gallery and page.collection %}
         <div class="row mt-5 mb-5">
           {% assign gallery_folder = page.collection | append: '/' | append: page.slug %}
           {% assign gallery_path = 'assets/galleries/' | append: gallery_folder %}
