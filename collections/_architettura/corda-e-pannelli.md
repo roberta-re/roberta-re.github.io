@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Corda e pannelli
-image: assets/images/Architettura/corda-e-pannelli/01.jpg
-gallery: assets/images/Architettura/corda-e-pannelli/
+image: assets/galleries/architettura/corda-e-pannelli/01.jpg
+gallery: true
 ---
 
 ...pannelli flessibili, colori e carta da parati che cambiano al cambiare delle stagioni: progettazione e restyling degli spazi espotitivi a “mezzaluna” per un'attività commerciale di articoli per l'illuminazione e di articoli per la casa.
