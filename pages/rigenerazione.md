@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: collection
 title: Rigenerazione
 permalink: "/rigenerazione/"
 ---

@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Corda e pannelli
-author: roberta
-category: Architettura
-published: true
 image: assets/images/Architettura/corda-e-pannelli/01.jpg
 gallery: assets/images/Architettura/corda-e-pannelli/
 ---

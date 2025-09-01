@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Turchese e cementine
-author: roberta
-category: Architettura
-published: true
 image: assets/images/Architettura/turchese-e-cementine/00.jpg
 gallery: assets/images/Architettura/turchese-e-cementine/
 ---

@@ -1,6 +1,7 @@
 ---
-layout: category
+layout: collection
 title: Architettura
+collection: architettura
 permalink: "/architettura/"
 ---
 

@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Licheni e asimmetrie
-author: roberta
-category: Architettura
-published: true
 image: assets/images/Architettura/licheni-e-asimmetrie/01.jpg
 gallery: assets/images/Architettura/licheni-e-asimmetrie/
 

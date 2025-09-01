@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Verde acqua e legno
-author: roberta
-category: Architettura
-published: true
 image: assets/images/Architettura/verde-acqua-e-legno/00.jpg
 gallery: assets/images/Architettura/verde-acqua-e-legno/
 ---

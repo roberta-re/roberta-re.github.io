@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Luce e jungla
-author: roberta
-category: Architettura
-published: true
 image: assets/images/Architettura/luce-e-jungla/00.jpg
 gallery: assets/images/Architettura/luce-e-jungla/
 ---

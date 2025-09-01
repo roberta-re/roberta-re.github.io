@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Bianco e trasparenza
-author: roberta
-category: Architettura
-published: true
 image: assets/images/Architettura/bianco-e-trasparenza/00.jpg
 gallery: assets/images/Architettura/bianco-e-trasparenza/
 ---

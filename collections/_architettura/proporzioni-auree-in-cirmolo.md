@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Proporzioni auree in cirmolo
-author: roberta
-category: Architettura
-published: true
 image: assets/images/Architettura/proporzioni-auree-in-cirmolo/00.jpg
 gallery: assets/images/Architettura/proporzioni-auree-in-cirmolo/
 ---

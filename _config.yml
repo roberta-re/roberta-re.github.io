@@ -36,3 +36,11 @@ plugins:
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-archives
+collections_dir: collections
+collections:
+  architettura:
+    output: true
+    permalink: /architettura/:title/
+  rigenerazione:
+    output: true
+    permalink: /rigenerazione/:title/

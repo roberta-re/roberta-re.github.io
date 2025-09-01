@@ -19,16 +19,13 @@ layout: default
 
 {% assign post_count = 0 %}
 <div class="row">
-{% for category in site.categories %}
-  {% if category[0] == page.title %}
-    {% for post in category.last %}
-      {% assign post_count = post_count | plus: 1 %}
-      <div class="col-12 col-sm-6 col-lg-4 mb-4">
-        {% include postbox.html %}
-      </div>
-    {% endfor %}
-  {% endif %}
-{% endfor %}
+  {% assign collection_name = page.collection %}
+  {% for post in site[collection_name] %}
+    {% assign post_count = post_count | plus: 1 %}
+    <div class="col-12 col-sm-6 col-lg-4 mb-4">
+      {% include postbox.html %}
+    </div>
+  {% endfor %}
 </div>
 
 {% if post_count == 0 %}
