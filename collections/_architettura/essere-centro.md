@@ -3,7 +3,7 @@ layout: post
 title: Essere Centro
 image: assets/galleries/architettura/essere-centro/00.jpg
 gallery: true
-published: false
+published: true
 ---
 
 Trova un posto che sia casa. Uno spazio di 330mq con una terrazza verde in un edificio storico ristrutturato dove il benessere e la salute della persona passano anche dal senso del bello, dal coinvolgimento estetico e immaginativo, un’evocazione emotiva. Una visione olistica della persona ma anche dei luoghi, che ha permeato tutta la progettazione e realizzazione del centro.
