@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Storia e Vetro
-image: assets/galleries/architettura/storia-e-vetro/00.jpg
+image: assets/galleries/architettura/storia-e-vetro/02ST.jpg
 gallery: true
 published: true
 ---
