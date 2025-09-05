@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Verde acqua e legno
+title: Storia e Vetro
 image: assets/galleries/architettura/storia-e-vetro/00.jpg
 gallery: true
 published: true
