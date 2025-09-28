@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Io
-permalink: "/io/"
+permalink: "/Profilo/"
 image: assets/images/roberta.jpg
 ---
 
