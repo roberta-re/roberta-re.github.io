@@ -3,7 +3,7 @@ layout: post
 title: Sedotti e abbandonati
 image: assets/galleries/rigenerazione/sedotti-e-abbandonati/00.jpg
 video: https://www.youtube.com/watch?v=A4r3GGmhUtw
-gallery: true<   
+gallery:   
 ---
 
 
