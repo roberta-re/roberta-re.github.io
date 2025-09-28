@@ -7,7 +7,7 @@ gallery: true
 
 ...in costruzione
 
-[link che vuoi](https://www.facebook.com/SEDOTTIeABBANDONATI))
+
 
 - **oggetto**: Il progetto SEDOTTIeABBANDONATI, promosso dal Collegio degli Ingegneri del Trentino, si pone come obiettivi primari generare un interesse per il tema degli edifici abbandonati e indurre una riflessione su un fenomeno molto discusso nel nostro Paese: la presenza massiccia sul territorio di edifici e infrastrutture la cui realizzazione o non si è mai conclusa o se conclusa è stata poi abbandonata. 
 - **committente**: Collegio degli Ingegneri del Trentino
