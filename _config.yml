@@ -38,9 +38,9 @@ plugins:
 - jekyll-archives
 collections_dir: collections
 collections:
-  architettura:
+  progettazione:
     output: true
-    permalink: /architettura/:title/
+    permalink: /progettazione/:title/
   rigenerazione:
     output: true
     permalink: /rigenerazione/:title/
