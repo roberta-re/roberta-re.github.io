@@ -18,12 +18,16 @@
     align-items: center;
     justify-content: center;
 
-    img {
+    img, iframe {
       width: 100%;
       height: 100%;
       object-fit: cover;
       cursor: zoom-in;
       user-select: none;
+    }
+    iframe {
+      height: auto;
+      aspect-ratio: 16/9;
     }
 
     .arrow {
@@ -91,7 +95,7 @@
       max-width: 80vw;
       max-height: 80vh;
 
-      img {
+      img, iframe {
         max-width: 80vw;
         max-height: 80vh;
         width: auto;

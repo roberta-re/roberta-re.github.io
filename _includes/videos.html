@@ -1,0 +1,10 @@
+<div class="clearfix"></div>
+{% if page.videos %}
+  <div class="row mt-5 mb-5">
+    {% for video in page.videos %}
+      <div class="col-6 col-sm-4 col-lg-3 mb-4">
+        {% include youtube.html id=video %}
+      </div>
+    {% endfor %}
+  </div>
+{% endif %}
