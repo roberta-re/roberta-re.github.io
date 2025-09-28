@@ -19,4 +19,4 @@ gallery: true
 - **committente**: Collegio degli Ingegneri del Trentino
 - **link**: https://www.facebook.com/SEDOTTIeABBANDONATI
 - **data**: dal 2020
-- **foto**: --
+- **ruolo**: co-ideatrice e coordinatrice
