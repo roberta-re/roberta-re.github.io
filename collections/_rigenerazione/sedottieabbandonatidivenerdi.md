@@ -11,7 +11,7 @@ videos: [
 gallery: true
 ---
 
-- **oggetto**: Il progetto SEDOTTIeABBANDONATI, promosso dal Collegio degli Ingegneri del Trentino, si pone come obiettivi primari generare un interesse per il tema degli edifici abbandonati e indurre una riflessione su un fenomeno molto discusso nel nostro Paese: la presenza massiccia sul territorio di edifici e infrastrutture la cui realizzazione o non si è mai conclusa o se conclusa è stata poi abbandonata.
+- **oggetto**: SEDOTTIeABBANDONATI di Venerdì è un ciclo di conferenze del progetto "Sedotti e Abbandonati". Un ciclo di incontri e iniziative legate alla rigenerazione urbana, ai processi partecipati e al concetto di bene comune, durante i quali abbiamo colloquiato con una serie di professionisti e aministratori operanti in tutta italia rispetto alle buone pratiche esistenti e alle prospettive per il futuro prossimo.
 - **committente**: Collegio degli Ingegneri del Trentino
 - **link**: https://www.facebook.com/SEDOTTIeABBANDONATI
 - **data**: dal 2020
