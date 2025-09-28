@@ -5,7 +5,7 @@ image: assets/galleries/rigenerazione/sedotti-e-abbandonati/00.jpg
 gallery: true
 ---
 
-...in costruzione
+
 
 
 
