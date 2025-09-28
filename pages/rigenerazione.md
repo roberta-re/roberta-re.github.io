@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: Rigenerazione
+title: processi
 collection: rigenerazione
 permalink: "/rigenerazione/"
 ---
