@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Raccordi in arancione
-image: assets/galleries/architettura/raccordi-in-arancione/00.jpg
+image: assets/galleries/progettazione/raccordi-in-arancione/00.jpg
 gallery: true
 published: false
 ---

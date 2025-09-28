@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Essere Centro
-image: assets/galleries/architettura/essere-centro/00.jpg
+image: assets/galleries/progettazione/essere-centro/00.jpg
 gallery: true
 published: true
 ---

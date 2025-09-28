@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Turchese e cementine
-image: assets/galleries/architettura/turchese-e-cementine/00.jpg
+image: assets/galleries/progettazione/turchese-e-cementine/00.jpg
 gallery: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Corda e pannelli
-image: assets/galleries/architettura/corda-e-pannelli/01.jpg
+image: assets/galleries/progettazione/corda-e-pannelli/01.jpg
 gallery: true
 ---
 

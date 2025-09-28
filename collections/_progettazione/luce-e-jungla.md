@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Luce e jungla
-image: assets/galleries/architettura/luce-e-jungla/00.jpg
+image: assets/galleries/progettazione/luce-e-jungla/00.jpg
 gallery: true
 ---
 

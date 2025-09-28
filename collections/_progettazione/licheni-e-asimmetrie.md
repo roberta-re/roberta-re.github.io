@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Licheni e asimmetrie
-image: assets/galleries/architettura/licheni-e-asimmetrie/01.jpg
+image: assets/galleries/progettazione/licheni-e-asimmetrie/01.jpg
 gallery: true
 
 ---

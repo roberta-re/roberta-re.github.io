@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Verde acqua e legno
-image: assets/galleries/architettura/verde-acqua-e-legno/00.jpg
+image: assets/galleries/progettazione/verde-acqua-e-legno/00.jpg
 gallery: true
 ---
 

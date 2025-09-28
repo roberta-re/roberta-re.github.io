@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Proporzioni auree in cirmolo
-image: assets/galleries/architettura/proporzioni-auree-in-cirmolo/00.jpg
+image: assets/galleries/progettazione/proporzioni-auree-in-cirmolo/00.jpg
 gallery: true
 ---
 

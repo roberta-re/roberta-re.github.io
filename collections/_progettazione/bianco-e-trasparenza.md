@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bianco e trasparenza
-image: assets/galleries/architettura/bianco-e-trasparenza/00.jpg
+image: assets/galleries/progettazione/bianco-e-trasparenza/00.jpg
 gallery: true
 ---
 
