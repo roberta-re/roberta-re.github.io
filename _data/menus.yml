@@ -1,11 +1,11 @@
 # Top Menu
 topmenu:
 
-- title: Io
-  url: "io/"
+- title: Profilo
+  url: "profilo/"
 
-- title: Architettura
-  url: "architettura/"
+- title: Progettazione
+  url: "progettazione/"
 
 # - title: Rigenerazione
 #   url: "rigenerazione/"
@@ -13,11 +13,11 @@ topmenu:
 # Footer Menu
 footermenu:
 
-- title: Io
-  url: "io/"
+- title: Profilo
+  url: "profilo/"
 
-- title: Architettura
-  url: "architettura/"
+- title: Progettazione
+  url: "progettazione/"
 
 # - title: Rigenerazione
 #   url: "rigenerazione/"
