@@ -5,7 +5,7 @@ image: assets/galleries/rigenerazione/sedotti-e-abbandonati -di - venerdì/00.jp
 videos: [
   pSqyWDe1_2A&t=6217s,
   -DDdisVgluo,
-  mnnEBz79spQ&t=1844s,
+  mnnEBz79spQ&t=1882s,
   tbP9PGghN4&t=629s,
 ]
 gallery: true
