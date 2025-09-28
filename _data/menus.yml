@@ -1,23 +1,23 @@
 # Top Menu
 topmenu:
 
-- title: Profilo
-  url: "profilo/"
-
 - title: Progettazione
   url: "progettazione/"
 
-# - title: Rigenerazione
-#   url: "rigenerazione/"
+- title: Rigenerazione
+  url: "rigenerazione/"
+
+- title: Profilo
+  url: "profilo/"
 
 # Footer Menu
 footermenu:
 
-- title: Profilo
-  url: "profilo/"
-
 - title: Progettazione
   url: "progettazione/"
 
-# - title: Rigenerazione
-#   url: "rigenerazione/"
+- title: Rigenerazione
+  url: "rigenerazione/"
+
+- title: Profilo
+  url: "profilo/"
