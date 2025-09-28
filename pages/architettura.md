@@ -1,7 +1,7 @@
 ---
 layout: collection
-title: Architettura
-collection: progetti
+title: progettazione
+collection: architettura
 permalink: "/architettura/"
 ---
 
