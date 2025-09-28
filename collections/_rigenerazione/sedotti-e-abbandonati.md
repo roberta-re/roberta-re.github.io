@@ -5,6 +5,7 @@ image: assets/galleries/rigenerazione/sedotti-e-abbandonati/00.jpg
 videos: [
   A4r3GGmhUtw,
   N5WflDHeky8,
+  DuRUKoEewkk,
 ]
 gallery: true
 ---
