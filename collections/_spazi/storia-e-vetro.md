@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Storia e Vetro
-image: assets/galleries/progettazione/storia-e-vetro/02ST.jpg
+image: assets/galleries/spazi/storia-e-vetro/02ST.jpg
 gallery: true
 published: true
+redirect_from:
+  - /progettazione/storia-e-vetro/
 ---
 
 Esigenze di ordine funzionale e di adeguamento normativo ci hanno permesso di accedere ai luoghi di servizio, ai retroscena, di uno dei palazzi più affascinanti della storia trentina. Entrare in punta dei piedi nella storia di un edificio richiede di affinare la tecnica e l’umiltà.

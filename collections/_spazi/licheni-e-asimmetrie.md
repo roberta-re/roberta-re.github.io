@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Licheni e asimmetrie
-image: assets/galleries/progettazione/licheni-e-asimmetrie/01.jpg
+image: assets/galleries/spazi/licheni-e-asimmetrie/01.jpg
 gallery: true
-
+redirect_from:
+  - /progettazione/licheni-e-asimmetrie/
 ---
 
 ...metamorfosi di progetto, licheni e assimmetrie - quando un'intuizione di colore e il coraggio degli angoli diventano elementi ri-generatori di un appartamento. Dettagli vintage e punti luce studiati valorizzano le linee essenziali degli arredi e scaldano gli ambieni.

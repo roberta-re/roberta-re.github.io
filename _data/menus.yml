@@ -1,8 +1,8 @@
 # Top Menu
 topmenu:
 
-- title: Progettazione
-  url: "progettazione/"
+- title: Spazi
+  url: "spazi/"
 
 - title: Rigenerazione
   url: "rigenerazione/"
@@ -13,8 +13,8 @@ topmenu:
 # Footer Menu
 footermenu:
 
-- title: Progettazione
-  url: "progettazione/"
+- title: Spazi
+  url: "spazi/"
 
 - title: Rigenerazione
   url: "rigenerazione/"

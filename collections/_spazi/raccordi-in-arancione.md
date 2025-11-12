@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Raccordi in arancione
-image: assets/galleries/progettazione/raccordi-in-arancione/00.jpg
+image: assets/galleries/spazi/raccordi-in-arancione/00.jpg
 gallery: true
 published: true
+redirect_from:
+  - /progettazione/raccordi-in-arancione/
 ---
 
 ...la ricerca di armonia tra la curva e la retta ha generato questo mobile libreria. Contenimento sia inteso come capacità volumentrica che come caldo abbraccio. Grazie a Eugenio Salvato artigiano per la realizzazione in materia del progetto.

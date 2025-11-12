@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Turchese e cementine
-image: assets/galleries/progettazione/turchese-e-cementine/00.jpg
+image: assets/galleries/spazi/turchese-e-cementine/00.jpg
 gallery: true
+redirect_from:
+  - /progettazione/turchese-e-cementine/
 ---
 
 ...dare una nuova identità alla casa mantenendone la natura ma inserendo il proprio originale contributo alla sua storia. Una sfida dal risultato "profumato" di Provenza e di modernità.

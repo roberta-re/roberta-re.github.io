@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Bianco e trasparenza
-image: assets/galleries/progettazione/bianco-e-trasparenza/00.jpg
+image: assets/galleries/spazi/bianco-e-trasparenza/00.jpg
 gallery: true
+redirect_from:
+  - /progettazione/bianco-e-trasparenza/
 ---
 
 ...aggiungere un pezzetto di storia alla vita di questo sottotetto, valorizzandone la forma grazie all'uso massivo del bianco e della luce. Pochi arredi mirati, divisioni sonore trasparenti e discrete caratterizzano questa nicchia studio: rifugio creativo per le saporite produzioni dei suoi brillanti abitanti.

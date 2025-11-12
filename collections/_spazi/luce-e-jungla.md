@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Luce e jungla
-image: assets/galleries/progettazione/luce-e-jungla/00.jpg
+image: assets/galleries/spazi/luce-e-jungla/00.jpg
 gallery: true
+redirect_from:
+  - /progettazione/luce-e-jungla/
 ---
 
 ...restyling di un b&b nel cuore della città. La palette colori tra il salvia e l'azzurro,  i tessuti dalla texture rustica, i dettagli in tonalità degli accessori e l'uso del verde hanno reso l'ambiente caldo e familiare. L'arredo delle terrazze e dei balconi, seppur minimale, ha completato gli ambienti e arricchito l'appartamento. e alla fine una nota......e se ci venisse voglia di cambiare forma e materia alla scala?
