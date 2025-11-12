@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: Architettare Spazi
+title: Architettare spazi
 collection: spazi
 permalink: "/spazi/"
 redirect_from:

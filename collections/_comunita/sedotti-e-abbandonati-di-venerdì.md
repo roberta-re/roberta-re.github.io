@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Sedotti e abbandonati di venerdì
-image: assets/galleries/rigenerazione/sedotti-e-abbandonati-di-venerdì/01.jpg
+image: assets/galleries/comunita/sedotti-e-abbandonati-di-venerdì/01.jpg
+redirect_from:
+  - /rigenerazione/sedotti-e-abbandonati-di-venerdì/
 videos: [
   pSqyWDe1_2A,
   -DDdisVgluo,

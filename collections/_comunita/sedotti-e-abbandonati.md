@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Sedotti e abbandonati
-image: assets/galleries/rigenerazione/sedotti-e-abbandonati/00.jpg
+image: assets/galleries/comunita/sedotti-e-abbandonati/00.jpg
+redirect_from:
+  - /rigenerazione/sedotti-e-abbandonati/
 videos: [
   A4r3GGmhUtw,
   N5WflDHeky8,

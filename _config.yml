@@ -42,6 +42,6 @@ collections:
   spazi:
     output: true
     permalink: /spazi/:title/
-  rigenerazione:
+  comunita:
     output: true
-    permalink: /rigenerazione/:title/
+    permalink: /comunita/:title/

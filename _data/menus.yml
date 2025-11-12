@@ -4,8 +4,8 @@ topmenu:
 - title: Spazi
   url: "spazi/"
 
-- title: Rigenerazione
-  url: "rigenerazione/"
+- title: Comunità
+  url: "comunita/"
 
 - title: Profilo
   url: "profilo/"
@@ -16,8 +16,8 @@ footermenu:
 - title: Spazi
   url: "spazi/"
 
-- title: Rigenerazione
-  url: "rigenerazione/"
+- title: Comunità
+  url: "comunita/"
 
 - title: Profilo
   url: "profilo/"
