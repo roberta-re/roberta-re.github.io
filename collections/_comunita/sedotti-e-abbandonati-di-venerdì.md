@@ -7,8 +7,7 @@ redirect_from:
 videos: [
   pSqyWDe1_2A,
   -DDdisVgluo,
-  mnnEBz79spQ,
-  tbP9PGghN4,
+  mnnEBz79spQ
 ]
 gallery: true
 ---

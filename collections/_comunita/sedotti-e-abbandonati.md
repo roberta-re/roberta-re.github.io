@@ -9,10 +9,10 @@ videos: [
   N5WflDHeky8,
   DuRUKoEewkk,
   nJ9dWT48iKQ,
-  zji2399pMAU&t=4s,
-  5tFK_Gm6BsU&t=36s,
+  zji2399pMAU,
+  5tFK_Gm6BsU,
   aYZJizRZgGk,
-  jDtrazA99Ko&t=4s,
+  jDtrazA99Ko,
 ]
 gallery: true
 ---
