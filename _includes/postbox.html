@@ -3,7 +3,7 @@
 <div class="card">
     <a class="postbox-link" href="{{ post.url | absolute_url }}" target="_self">
       {% if post.image %}
-        <div class="postbox-image-effect mb-4">
+        <div class="postbox-image-effect mb-4 img-loading">
             <img class="rounded" src="{{ site.baseurl }}/{{ post.image }}" alt="{{ post.title }}">
         </div>
       {% endif %}
