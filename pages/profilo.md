@@ -15,4 +15,4 @@ Lo stimolo creativo nella sua varietà possibile è inesauribile soprattutto se 
 
 Credo che per avere della buona architettura sia importante tornare a dibattere di cultura, a sporcarsi le mani di terra e a ridare peso alle qualità estetiche oltre che funzionali ed energeticamente sostenibili del costruito. Va ri-attribuita la **valenza sociale ed intellettuale** al progetto e al pensiero urbanistico, sempre più sintesi di tante variabili quante sono le necessità che l’uomo, la collettività e l’ambiente richiede. Cogliere le costanti nella metamorfosi.
 
-[CV_RobertaRe](/assets/files/CV_RobertaRe_2025.pdf)
+[CV_RobertaRe](/assets/files/CV_RobertaRe_2026.pdf)
