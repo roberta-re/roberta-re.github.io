@@ -4,7 +4,7 @@ layout: default
 <!-- Page Featured Image -->
 {% if page.image %}
 <div class="text-center mx-auto mb-5 img-loading">
-  <img class="featured-image text-center mx-auto rounded" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">
+  <img class="featured-image text-center mx-auto rounded" src="{{ page.image | relative_url }}" alt="{{ page.title }}">
 </div>
 {% endif %}
 <!-- End Page Featured Image -->

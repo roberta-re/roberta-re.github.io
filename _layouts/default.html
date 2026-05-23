@@ -8,7 +8,7 @@ layout: base
     <div class="container">
       <a class="navbar-brand text-dark font-weight-bold big d-flex align-items-center" href="{{site.baseurl}}/">
         {% if site.logo %}
-        <img class="mr-2" src="{{site.baseurl}}/{{site.logo}}" height="40" alt="Roberta Re">
+        <img class="mr-2" src="{{ site.logo | relative_url }}" height="40" alt="Roberta Re">
         {% else %}
         <span class="d-none d-md-inline-block">{{ site.title }}</span>
         {% endif %}

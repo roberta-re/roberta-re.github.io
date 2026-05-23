@@ -2,7 +2,7 @@
 layout: post
 title: Meantime
 published: false
-image: assets/galleries/comunita/meantime/00.jpg
+image: /assets/galleries/comunita/meantime/00.jpg
 videos: []
 ---
 

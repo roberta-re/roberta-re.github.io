@@ -2,7 +2,7 @@
 layout: post
 title: Openspace
 published: false
-image: assets/galleries/comunita/openspace/00.jpg
+image: /assets/galleries/comunita/openspace/00.jpg
 videos: []
 ---
 

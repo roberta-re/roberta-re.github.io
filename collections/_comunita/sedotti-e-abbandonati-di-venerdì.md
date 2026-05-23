@@ -2,9 +2,9 @@
 layout: post
 title: Sedotti e abbandonati di venerdì
 published: true
-image: assets/galleries/comunita/sedotti-e-abbandonati-di-venerdì/01.jpg
+image: /assets/galleries/comunita/sedotti-e-abbandonati-di-venerdì/01.jpg
 gallery_images:
-  - assets/galleries/comunita/sedotti-e-abbandonati-di-venerdì/01.jpg
+  - /assets/galleries/comunita/sedotti-e-abbandonati-di-venerdì/01.jpg
 videos:
   - https://youtube.com/watch?v=pSqyWDe1_2A
   - https://youtube.com/watch?v=-DDdisVgluo

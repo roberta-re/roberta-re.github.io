@@ -3,8 +3,8 @@ description: "Architettura, Progettazione e Design"
 timezone: UTC
 baseurl: ""
 permalink: "/:categories/:title/"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+logo: '/assets/images/logo.png'
+favicon: '/assets/images/favicon.ico'
 author: Roberta Re
 paginate: 30
 locale: it_IT
@@ -24,7 +24,7 @@ authors:
   roberta:
     name: Roberta Re
     display_name: Roberta Re
-    avatar: 'assets/uploads/roberta.jpg'
+    avatar: '/assets/uploads/roberta.jpg'
     description: ""
 exclude:
   - "LICENSE.txt"

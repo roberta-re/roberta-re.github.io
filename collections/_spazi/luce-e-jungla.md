@@ -2,35 +2,35 @@
 layout: post
 title: Luce e jungla
 published: true
-image: assets/galleries/spazi/luce-e-jungla/00.jpg
+image: /assets/galleries/spazi/luce-e-jungla/00.jpg
 gallery_images:
-  - assets/galleries/spazi/luce-e-jungla/00.jpg
-  - assets/galleries/spazi/luce-e-jungla/01.jpg
-  - assets/galleries/spazi/luce-e-jungla/02.jpg
-  - assets/galleries/spazi/luce-e-jungla/03.jpg
-  - assets/galleries/spazi/luce-e-jungla/04.jpg
-  - assets/galleries/spazi/luce-e-jungla/IMG_1733.JPG
-  - assets/galleries/spazi/luce-e-jungla/IMG_1742.JPG
-  - assets/galleries/spazi/luce-e-jungla/IMG_5050.JPG
-  - assets/galleries/spazi/luce-e-jungla/IMG_5086.JPG
-  - assets/galleries/spazi/luce-e-jungla/P1010004.JPG
-  - assets/galleries/spazi/luce-e-jungla/P1010006.JPG
-  - assets/galleries/spazi/luce-e-jungla/P1010025.JPG
-  - assets/galleries/spazi/luce-e-jungla/P1010033.JPG
-  - assets/galleries/spazi/luce-e-jungla/P1010041.JPG
-  - assets/galleries/spazi/luce-e-jungla/P1010043.JPG
-  - assets/galleries/spazi/luce-e-jungla/P1010046.JPG
-  - assets/galleries/spazi/luce-e-jungla/P1010048.JPG
-  - assets/galleries/spazi/luce-e-jungla/P1010053.JPG
-  - assets/galleries/spazi/luce-e-jungla/P1010061.JPG
-  - assets/galleries/spazi/luce-e-jungla/P1010063.JPG
-  - assets/galleries/spazi/luce-e-jungla/P1010070.JPG
-  - assets/galleries/spazi/luce-e-jungla/P1010076.JPG
-  - assets/galleries/spazi/luce-e-jungla/P1010077.JPG
-  - assets/galleries/spazi/luce-e-jungla/P1010079.JPG
-  - assets/galleries/spazi/luce-e-jungla/P1010090.JPG
-  - assets/galleries/spazi/luce-e-jungla/P1010093.JPG
-  - assets/galleries/spazi/luce-e-jungla/P1010125.JPG
+  - /assets/galleries/spazi/luce-e-jungla/00.jpg
+  - /assets/galleries/spazi/luce-e-jungla/01.jpg
+  - /assets/galleries/spazi/luce-e-jungla/02.jpg
+  - /assets/galleries/spazi/luce-e-jungla/03.jpg
+  - /assets/galleries/spazi/luce-e-jungla/04.jpg
+  - /assets/galleries/spazi/luce-e-jungla/IMG_1733.JPG
+  - /assets/galleries/spazi/luce-e-jungla/IMG_1742.JPG
+  - /assets/galleries/spazi/luce-e-jungla/IMG_5050.JPG
+  - /assets/galleries/spazi/luce-e-jungla/IMG_5086.JPG
+  - /assets/galleries/spazi/luce-e-jungla/P1010004.JPG
+  - /assets/galleries/spazi/luce-e-jungla/P1010006.JPG
+  - /assets/galleries/spazi/luce-e-jungla/P1010025.JPG
+  - /assets/galleries/spazi/luce-e-jungla/P1010033.JPG
+  - /assets/galleries/spazi/luce-e-jungla/P1010041.JPG
+  - /assets/galleries/spazi/luce-e-jungla/P1010043.JPG
+  - /assets/galleries/spazi/luce-e-jungla/P1010046.JPG
+  - /assets/galleries/spazi/luce-e-jungla/P1010048.JPG
+  - /assets/galleries/spazi/luce-e-jungla/P1010053.JPG
+  - /assets/galleries/spazi/luce-e-jungla/P1010061.JPG
+  - /assets/galleries/spazi/luce-e-jungla/P1010063.JPG
+  - /assets/galleries/spazi/luce-e-jungla/P1010070.JPG
+  - /assets/galleries/spazi/luce-e-jungla/P1010076.JPG
+  - /assets/galleries/spazi/luce-e-jungla/P1010077.JPG
+  - /assets/galleries/spazi/luce-e-jungla/P1010079.JPG
+  - /assets/galleries/spazi/luce-e-jungla/P1010090.JPG
+  - /assets/galleries/spazi/luce-e-jungla/P1010093.JPG
+  - /assets/galleries/spazi/luce-e-jungla/P1010125.JPG
 redirect_from:
   - /progettazione/luce-e-jungla/
 ---

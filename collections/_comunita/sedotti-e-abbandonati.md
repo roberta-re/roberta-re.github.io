@@ -2,10 +2,10 @@
 layout: post
 title: Sedotti e abbandonati
 published: true
-image: assets/galleries/comunita/sedotti-e-abbandonati/00.jpg
+image: /assets/galleries/comunita/sedotti-e-abbandonati/00.jpg
 gallery_images:
-  - assets/galleries/comunita/sedotti-e-abbandonati/00.jpg
-  - "assets/galleries/comunita/sedotti-e-abbandonati/Collegio LOGO.jpg"
+  - /assets/galleries/comunita/sedotti-e-abbandonati/00.jpg
+  - "/assets/galleries/comunita/sedotti-e-abbandonati/Collegio LOGO.jpg"
 videos:
   - https://youtube.com/watch?v=A4r3GGmhUtw
   - https://youtube.com/watch?v=N5WflDHeky8

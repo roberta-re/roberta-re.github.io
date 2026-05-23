@@ -2,7 +2,7 @@
 layout: post
 title: Sport Civico
 published: false
-image: assets/galleries/comunita/sport-civico/00.jpg
+image: /assets/galleries/comunita/sport-civico/00.jpg
 videos: []
 ---
 

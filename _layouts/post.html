@@ -14,7 +14,7 @@ post_class: post-template
     <!-- Post Featured Image -->
     {% if page.image %}
     <div class="text-center mx-auto mb-5 img-loading">
-      <img class="featured-image text-center mx-auto rounded" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">
+      <img class="featured-image text-center mx-auto rounded" src="{{ page.image | relative_url }}" alt="{{ page.title }}">
     </div>
     {% endif %}
     <!-- End Post Featured Image -->
@@ -46,7 +46,7 @@ post_class: post-template
           <a class="thepostlink d-flex align-items-center" href="{{page.previous.url | absolute_url}}">
             {% if page.previous.image %}
               <span class="thepostlink-featured">
-                <img src="{{ site.baseurl }}/{{ page.previous.image }}" alt="{{page.previous.title}} thumbnail">
+                <img src="{{ page.previous.image | relative_url }}" alt="{{page.previous.title}} thumbnail">
               </span>
             {% endif %}
             <span>&laquo; {{page.previous.title}}</span>
@@ -59,7 +59,7 @@ post_class: post-template
             <span>{{page.next.title}} &raquo;</span>
             {% if page.next.image %}
               <span class="thepostlink-featured">
-                <img src="{{ site.baseurl }}/{{ page.next.image }}" alt="{{page.next.title}} thumbnail">
+                <img src="{{ page.next.image | relative_url }}" alt="{{page.next.title}} thumbnail">
               </span>
             {% endif %}
           </a>

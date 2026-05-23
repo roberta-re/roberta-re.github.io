@@ -2,7 +2,7 @@
 layout: post
 title: GREENTA
 published: false
-image: assets/galleries/comunita/greenta/00.jpg
+image: /assets/galleries/comunita/greenta/00.jpg
 videos: []
 ---
 
