@@ -24,7 +24,7 @@ collections:
     slug: "{{slug}}"
     extension: md
     format: yaml-frontmatter
-    media_folder: "assets/galleries/spazi/{{slug}}"
+    media_folder: "assets/galleries/spazi"
     public_folder: "/assets/galleries/spazi"
     view_filters:
       - { label: "Tutti", field: published, pattern: ".*" }
@@ -80,7 +80,7 @@ collections:
     slug: "{{slug}}"
     extension: md
     format: yaml-frontmatter
-    media_folder: "assets/galleries/comunita/{{slug}}"
+    media_folder: "assets/galleries/comunita"
     public_folder: "/assets/galleries/comunita"
     view_filters:
       - { label: "Tutti", field: published, pattern: ".*" }
