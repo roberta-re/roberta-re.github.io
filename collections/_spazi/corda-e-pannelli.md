@@ -2,9 +2,9 @@
 layout: post
 title: Corda e pannelli
 published: true
-image: /assets/galleries/spazi/corda-e-pannelli/01.jpg
+image: /assets/galleries/spazi/01.jpg
 gallery_images:
-  - /assets/galleries/spazi/corda-e-pannelli/01.jpg
+  - /assets/galleries/spazi/01.jpg
   - /assets/galleries/spazi/corda-e-pannelli/02.jpg
   - /assets/galleries/spazi/corda-e-pannelli/03.jpg
   - /assets/galleries/spazi/corda-e-pannelli/04.jpg
