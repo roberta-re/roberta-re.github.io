@@ -1,15 +1,16 @@
 ---
 layout: post
 title: Sedotti e abbandonati di venerdì
+published: true
 image: assets/galleries/comunita/sedotti-e-abbandonati-di-venerdì/01.jpg
+gallery_images:
+  - assets/galleries/comunita/sedotti-e-abbandonati-di-venerdì/01.jpg
+videos:
+  - https://youtube.com/watch?v=pSqyWDe1_2A
+  - https://youtube.com/watch?v=-DDdisVgluo
+  - https://youtube.com/watch?v=mnnEBz79spQ
 redirect_from:
   - /rigenerazione/sedotti-e-abbandonati-di-venerdì/
-videos: [
-  pSqyWDe1_2A,
-  -DDdisVgluo,
-  mnnEBz79spQ
-]
-gallery: true
 ---
 
 - **oggetto**: SEDOTTIeABBANDONATI di Venerdì è un ciclo di conferenze del progetto [Sedotti e Abbandonati](/rigenerazione/sedotti-e-abbandonati/). Un ciclo di incontri e iniziative legate alla rigenerazione urbana, ai processi partecipati e al concetto di bene comune, durante i quali abbiamo colloquiato con una serie di professionisti e aministratori operanti in tutta italia rispetto alle buone pratiche esistenti e alle prospettive per il futuro prossimo.

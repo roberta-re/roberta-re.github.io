@@ -1,9 +1,18 @@
 ---
 layout: post
 title: Raccordi in arancione
-image: assets/galleries/spazi/raccordi-in-arancione/00.jpg
-gallery: true
 published: true
+image: assets/galleries/spazi/raccordi-in-arancione/00.jpg
+gallery_images:
+  - assets/galleries/spazi/raccordi-in-arancione/00.jpg
+  - assets/galleries/spazi/raccordi-in-arancione/01.JPG
+  - assets/galleries/spazi/raccordi-in-arancione/02.jpg
+  - assets/galleries/spazi/raccordi-in-arancione/03.jpg
+  - assets/galleries/spazi/raccordi-in-arancione/04.jpg
+  - assets/galleries/spazi/raccordi-in-arancione/05.jpg
+  - assets/galleries/spazi/raccordi-in-arancione/06.jpg
+  - assets/galleries/spazi/raccordi-in-arancione/07.jpg
+  - assets/galleries/spazi/raccordi-in-arancione/08.jpg
 redirect_from:
   - /progettazione/raccordi-in-arancione/
 ---

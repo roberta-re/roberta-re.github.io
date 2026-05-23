@@ -1,8 +1,35 @@
 ---
 layout: post
 title: Turchese e cementine
+published: true
 image: assets/galleries/spazi/turchese-e-cementine/00.jpg
-gallery: true
+gallery_images:
+  - assets/galleries/spazi/turchese-e-cementine/00.jpg
+  - assets/galleries/spazi/turchese-e-cementine/01.jpg
+  - assets/galleries/spazi/turchese-e-cementine/02.jpg
+  - assets/galleries/spazi/turchese-e-cementine/03.jpg
+  - assets/galleries/spazi/turchese-e-cementine/04.jpg
+  - assets/galleries/spazi/turchese-e-cementine/06.jpg
+  - assets/galleries/spazi/turchese-e-cementine/08.jpg
+  - assets/galleries/spazi/turchese-e-cementine/09.jpg
+  - assets/galleries/spazi/turchese-e-cementine/10.jpg
+  - assets/galleries/spazi/turchese-e-cementine/11.jpg
+  - assets/galleries/spazi/turchese-e-cementine/12.jpg
+  - assets/galleries/spazi/turchese-e-cementine/13.jpg
+  - assets/galleries/spazi/turchese-e-cementine/14.jpg
+  - assets/galleries/spazi/turchese-e-cementine/15.jpg
+  - assets/galleries/spazi/turchese-e-cementine/17.jpg
+  - assets/galleries/spazi/turchese-e-cementine/18.jpg
+  - assets/galleries/spazi/turchese-e-cementine/19.jpg
+  - assets/galleries/spazi/turchese-e-cementine/20.jpg
+  - assets/galleries/spazi/turchese-e-cementine/21.jpg
+  - assets/galleries/spazi/turchese-e-cementine/22.jpg
+  - assets/galleries/spazi/turchese-e-cementine/23.jpg
+  - assets/galleries/spazi/turchese-e-cementine/24.jpg
+  - assets/galleries/spazi/turchese-e-cementine/25.jpg
+  - assets/galleries/spazi/turchese-e-cementine/26.jpg
+  - assets/galleries/spazi/turchese-e-cementine/27.jpg
+  - assets/galleries/spazi/turchese-e-cementine/28.JPG
 redirect_from:
   - /progettazione/turchese-e-cementine/
 ---

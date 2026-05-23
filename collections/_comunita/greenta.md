@@ -1,11 +1,9 @@
 ---
 layout: post
 title: GREENTA
-image: assets/galleries/comunita/greenta/00.jpg
-videos: [
-]
-gallery: true
 published: false
+image: assets/galleries/comunita/greenta/00.jpg
+videos: []
 ---
 
 - **oggetto**: ...

@@ -28,14 +28,11 @@ post_class: post-template
       {% include videos.html %}
 
       <div class="clearfix"></div>
-      {% if page.gallery and page.collection %}
+      {% if page.gallery_images and page.gallery_images.size > 0 %}
         <div class="row mt-5 mb-5">
-          {% assign gallery_folder = page.collection | append: '/' | append: page.slug %}
-          {% assign gallery_path = 'assets/galleries/' | append: gallery_folder %}
-          {% assign images = site.static_files | where_exp: "file", "file.path contains gallery_path" %}
-          {% for image in images %}
+          {% for image in page.gallery_images %}
             <div class="col-6 col-sm-4 col-lg-3 mb-4">
-              {% include thumbnail.html path=image.path %}
+              {% include thumbnail.html path=image %}
             </div>
           {% endfor %}
         </div>

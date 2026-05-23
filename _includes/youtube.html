@@ -1,7 +1,8 @@
+{% assign yt_id = include.id | split: 'v=' | last | split: '&' | first | split: '/' | last %}
 <span class="thumbnail">
   <span class="img-wrapper">
     <iframe
-      src="https://www.youtube.com/embed/{{ include.id }}"
+      src="https://www.youtube.com/embed/{{ yt_id }}"
       frameborder="0"
       allowfullscreen="true">
     </iframe>

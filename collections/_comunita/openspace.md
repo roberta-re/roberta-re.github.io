@@ -1,11 +1,9 @@
 ---
 layout: post
 title: Openspace
-image: assets/galleries/comunita/openspace/00.jpg
-videos: [
-]
-gallery: true
 published: false
+image: assets/galleries/comunita/openspace/00.jpg
+videos: []
 ---
 
 - **oggetto**: ...

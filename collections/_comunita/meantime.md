@@ -1,11 +1,9 @@
 ---
 layout: post
 title: Meantime
-image: assets/galleries/comunita/meantime/00.jpg
-videos: [
-]
-gallery: true
 published: false
+image: assets/galleries/comunita/meantime/00.jpg
+videos: []
 ---
 
 - **oggetto**: ...

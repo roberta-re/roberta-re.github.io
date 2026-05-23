@@ -1,11 +1,9 @@
 ---
 layout: post
 title: Sport Civico
-image: assets/galleries/comunita/sport-civico/00.jpg
-videos: [
-]
-gallery: true
 published: false
+image: assets/galleries/comunita/sport-civico/00.jpg
+videos: []
 ---
 
 - **oggetto**: ...
