@@ -1,0 +1,143 @@
+# yaml-language-server: $schema=https://unpkg.com/@sveltia/cms/schema/sveltia-cms.json
+
+backend:
+  name: github
+  repo: roberta-re/roberta-re.github.io
+  branch: main
+  base_url: https://sveltia-oauth.alessiocoser.workers.dev
+
+publish_mode: simple
+
+media_folder: assets/uploads
+public_folder: assets/uploads
+
+collections:
+  # ============================================
+  # SPAZI
+  # ============================================
+  - name: spazi
+    label: "Spazi"
+    label_singular: "Progetto Spazi"
+    folder: "collections/_spazi"
+    create: true
+    delete: true
+    slug: "{{slug}}"
+    extension: md
+    format: yaml-frontmatter
+    media_folder: "assets/galleries/spazi/{{slug}}"
+    public_folder: "assets/galleries/spazi/{{slug}}"
+    view_filters:
+      - { label: "Tutti", field: published, pattern: ".*" }
+      - { label: "✅ Pubblicati", field: published, pattern: true }
+      - { label: "📝 Bozze", field: published, pattern: false }
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Titolo", name: "title", widget: "string" }
+      - label: "Stato"
+        name: "published"
+        widget: "select"
+        options:
+          - { label: "📝 Bozza (non visibile sul sito)", value: false }
+          - { label: "✅ Pubblicato (visibile sul sito)", value: true }
+        default: false
+      - label: "Immagine di copertina"
+        name: "image"
+        widget: "image"
+        required: false
+      - label: "Galleria immagini"
+        name: "gallery_images"
+        widget: "list"
+        field: { label: "Immagine", name: "image", widget: "image" }
+        required: false
+        summary: "{{fields.image}}"
+      - label: "Video YouTube"
+        name: "videos"
+        widget: "list"
+        field:
+          label: "URL"
+          name: "url"
+          widget: "string"
+          pattern: ['^https?://(www\.)?(youtube\.com|youtu\.be)/.+', "Deve essere un link YouTube valido"]
+        required: false
+        hint: "Incolla l'URL completo da YouTube (es. https://youtube.com/watch?v=ABC123)"
+      - label: "Vecchi URL (redirect)"
+        name: "redirect_from"
+        widget: "list"
+        field: { label: "URL", name: "url", widget: "string" }
+        required: false
+        hint: "Se questa pagina aveva un vecchio indirizzo, mettilo qui per non rompere i link esterni."
+      - { label: "Contenuto", name: "body", widget: "markdown", required: false }
+
+  # ============================================
+  # COMUNITÀ
+  # ============================================
+  - name: comunita
+    label: "Comunità"
+    label_singular: "Progetto Comunità"
+    folder: "collections/_comunita"
+    create: true
+    delete: true
+    slug: "{{slug}}"
+    extension: md
+    format: yaml-frontmatter
+    media_folder: "assets/galleries/comunita/{{slug}}"
+    public_folder: "assets/galleries/comunita/{{slug}}"
+    view_filters:
+      - { label: "Tutti", field: published, pattern: ".*" }
+      - { label: "✅ Pubblicati", field: published, pattern: true }
+      - { label: "📝 Bozze", field: published, pattern: false }
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Titolo", name: "title", widget: "string" }
+      - label: "Stato"
+        name: "published"
+        widget: "select"
+        options:
+          - { label: "📝 Bozza (non visibile sul sito)", value: false }
+          - { label: "✅ Pubblicato (visibile sul sito)", value: true }
+        default: false
+      - label: "Immagine di copertina"
+        name: "image"
+        widget: "image"
+        required: false
+      - label: "Galleria immagini"
+        name: "gallery_images"
+        widget: "list"
+        field: { label: "Immagine", name: "image", widget: "image" }
+        required: false
+        summary: "{{fields.image}}"
+      - label: "Video YouTube"
+        name: "videos"
+        widget: "list"
+        field:
+          label: "URL"
+          name: "url"
+          widget: "string"
+          pattern: ['^https?://(www\.)?(youtube\.com|youtu\.be)/.+', "Deve essere un link YouTube valido"]
+        required: false
+        hint: "Incolla l'URL completo da YouTube (es. https://youtube.com/watch?v=ABC123)"
+      - label: "Vecchi URL (redirect)"
+        name: "redirect_from"
+        widget: "list"
+        field: { label: "URL", name: "url", widget: "string" }
+        required: false
+        hint: "Se questa pagina aveva un vecchio indirizzo, mettilo qui per non rompere i link esterni."
+      - { label: "Contenuto", name: "body", widget: "markdown", required: false }
+
+  # ============================================
+  # PAGINE (file collection — solo Profilo)
+  # ============================================
+  - name: pages
+    label: "Pagine"
+    editor:
+      preview: false
+    files:
+      - label: "Profilo"
+        name: "profilo"
+        file: "pages/profilo.md"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Titolo", name: "title", widget: "string" }
+          - { label: "Permalink", name: "permalink", widget: "hidden" }
+          - { label: "Foto", name: "image", widget: "image" }
+          - { label: "Contenuto", name: "body", widget: "markdown" }

@@ -24,7 +24,7 @@ authors:
   roberta:
     name: Roberta Re
     display_name: Roberta Re
-    avatar: 'assets/images/roberta.jpg'
+    avatar: 'assets/uploads/roberta.jpg'
     description: ""
 exclude:
   - "LICENSE.txt"

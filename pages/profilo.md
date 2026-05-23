@@ -2,7 +2,7 @@
 layout: page
 title: Profilo
 permalink: "/profilo/"
-image: assets/images/roberta.jpg
+image: assets/uploads/roberta.jpg
 ---
 
 Mi appassionano i **processi creativi** che nascono dalle relazioni tra le persone, **ascoltare e interpretare le esigenze** mettendole al centro del progetto, disegnare le loro storie, dare espressione, forma e colore alla loro identità. Amo avvicinare e fare sintesi di interessi apparentemente diversi come l’architettura, l’arte, il disegno e il movimento.
