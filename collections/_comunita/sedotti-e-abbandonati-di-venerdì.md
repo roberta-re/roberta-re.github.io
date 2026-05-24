@@ -13,7 +13,9 @@ redirect_from:
   - /rigenerazione/sedotti-e-abbandonati-di-venerdì/
 ---
 
-- **oggetto**: SEDOTTIeABBANDONATI di Venerdì è un ciclo di conferenze del progetto [Sedotti e Abbandonati](/rigenerazione/sedotti-e-abbandonati/). Un ciclo di incontri e iniziative legate alla rigenerazione urbana, ai processi partecipati e al concetto di bene comune, durante i quali abbiamo colloquiato con una serie di professionisti e aministratori operanti in tutta italia rispetto alle buone pratiche esistenti e alle prospettive per il futuro prossimo.
+SEDOTTIeABBANDONATI di Venerdì è un ciclo di conferenze del progetto [Sedotti e Abbandonati](/rigenerazione/sedotti-e-abbandonati/). Un ciclo di incontri e iniziative legate alla rigenerazione urbana, ai processi partecipati e al concetto di bene comune, durante i quali abbiamo colloquiato con una serie di professionisti e aministratori operanti in tutta italia rispetto alle buone pratiche esistenti e alle prospettive per il futuro prossimo.
+
+- **oggetto**: ciclo di incontri e iniziative legate alla rigenerazione urbana, ai processi partecipati e al concetto di bene comune;
 - **committente**: Collegio degli Ingegneri del Trentino
 - **link**: [Pagina Facebook](https://www.facebook.com/SEDOTTIeABBANDONATI)
 - **data**: dal 2020
