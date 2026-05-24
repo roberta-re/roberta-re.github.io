@@ -24,8 +24,8 @@ collections:
     slug: "{{slug}}"
     extension: md
     format: yaml-frontmatter
-    media_folder: "assets/galleries/spazi"
-    public_folder: "/assets/galleries/spazi"
+    media_folder: "/assets/galleries/spazi/{{slug}}"
+    public_folder: "/assets/galleries/spazi/{{slug}}"
     view_filters:
       - { label: "Tutti", field: published, pattern: ".*" }
       - { label: "✅ Pubblicati", field: published, pattern: true }
@@ -80,8 +80,8 @@ collections:
     slug: "{{slug}}"
     extension: md
     format: yaml-frontmatter
-    media_folder: "assets/galleries/comunita"
-    public_folder: "/assets/galleries/comunita"
+    media_folder: "/assets/galleries/comunita/{{slug}}"
+    public_folder: "/assets/galleries/comunita/{{slug}}"
     view_filters:
       - { label: "Tutti", field: published, pattern: ".*" }
       - { label: "✅ Pubblicati", field: published, pattern: true }

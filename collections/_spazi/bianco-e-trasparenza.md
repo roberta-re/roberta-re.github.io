@@ -2,9 +2,9 @@
 layout: post
 title: Bianco e trasparenza
 published: true
-image: /assets/uploads/spazi/test-bianco.jpg
+image: /assets/galleries/spazi/bianco-e-trasparenza/00.jpg
 gallery_images:
-  - /assets/uploads/spazi/test-bianco.jpg
+  - /assets/galleries/spazi/bianco-e-trasparenza/00.jpg
   - /assets/galleries/spazi/bianco-e-trasparenza/01.jpg
   - /assets/galleries/spazi/bianco-e-trasparenza/02.jpg
   - /assets/galleries/spazi/bianco-e-trasparenza/03.jpg
