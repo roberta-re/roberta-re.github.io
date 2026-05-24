@@ -17,7 +17,7 @@ redirect_from:
 
 OPEN SPACE si figura come un percorso per il **riuso temporaneo**, un' opportunità per dare ai negozi sfitti del centro storico di Camposampiero (PD)  una rinnovata visibilità e rilanciarli in questo “tempo di mezzo”. Il progetto è partito con il rilievo e la mappatura degli spazi commerciali sfitti e **si è sviluppato con** la sperimentazione **di riuso temporaneo delle vetrine di negozi vuoti** nelle principali vie del centro. Le vetrine dei privati che hanno aderito all'iniziativa sono state valorizzate attraverso l'apposizione di **vetrofanie coordinate** **rappresentanti immagini storiche dei luoghi più significativi di Camposampiero e dei suoi sobborghi**. Una mostra di foto storiche a cielo aperto che mira riqualificare le vetrine e dare spazio ad un racconto di com'era la città.**oggetto**:  
 
-- **oggetto:** OPEN SPACE 
+- **oggetto:** progetto di rilievo, mappatura degli sfitti commerciali, elaborazione strategie per la riattivazione attraverso animazione e partecipazione della comunità
 - **committente**: Cescot Veneto (ente di Confesercenti) in collaborazione con l’amministrazione, nell’ambito del Distretto del Commercio Torri&Acque
 - **link**: https://www.facebook.com/watch/?v=1372681963114246
 - **data**: 2021
