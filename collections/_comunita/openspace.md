@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Openspace
-published: false
+published: true
 image: /assets/galleries/comunita/openspace/6 CC.r1.png
 gallery_images:
   - /assets/galleries/comunita/openspace/186977229_450417625955561_2118174318478526138_n.jpg
